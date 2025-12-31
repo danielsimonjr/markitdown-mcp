@@ -165,4 +165,7 @@ cython_debug/
 src/.DS_Store
 .DS_Store
 .cursorrules
+
+# Claude Code settings (local only)
 .claude/
+.mcp.json
